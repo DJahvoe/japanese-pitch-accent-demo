@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.92609de2.chunk.css",
+    "main.js": "./static/js/main.c8c1baef.chunk.js",
+    "main.js.map": "./static/js/main.c8c1baef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.633c1ba7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.633c1ba7.js.map",
+    "static/js/2.7318fbc9.chunk.js": "./static/js/2.7318fbc9.chunk.js",
+    "static/js/2.7318fbc9.chunk.js.map": "./static/js/2.7318fbc9.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.92609de2.chunk.css.map": "./static/css/main.92609de2.chunk.css.map",
+    "static/js/2.7318fbc9.chunk.js.LICENSE.txt": "./static/js/2.7318fbc9.chunk.js.LICENSE.txt",
+    "static/media/aki(ga).35eb2e31.wav": "./static/media/aki(ga).35eb2e31.wav",
+    "static/media/bungaku(ga).bc659490.wav": "./static/media/bungaku(ga).bc659490.wav",
+    "static/media/chuugokugo(ga).9400044e.wav": "./static/media/chuugokugo(ga).9400044e.wav",
+    "static/media/daigaku(ga).3d1561f1.wav": "./static/media/daigaku(ga).3d1561f1.wav",
+    "static/media/denki(ga).ec27b819.wav": "./static/media/denki(ga).ec27b819.wav",
+    "static/media/hana(ga).17eeeeb6.wav": "./static/media/hana(ga).17eeeeb6.wav",
+    "static/media/juuichigatsu(ni).cb9bc108.wav": "./static/media/juuichigatsu(ni).cb9bc108.wav",
+    "static/media/kaisha(ga).99c4d956.wav": "./static/media/kaisha(ga).99c4d956.wav",
+    "static/media/kenbutsunin(ga).78ee85b5.wav": "./static/media/kenbutsunin(ga).78ee85b5.wav",
+    "static/media/kenmohororo(na).48937881.wav": "./static/media/kenmohororo(na).48937881.wav",
+    "static/media/ki(ga).07973a4b.wav": "./static/media/ki(ga).07973a4b.wav",
+    "static/media/mizu(ga).9853470e.wav": "./static/media/mizu(ga).9853470e.wav",
+    "static/media/momonohana(ga).5c2ccdb0.wav": "./static/media/momonohana(ga).5c2ccdb0.wav",
+    "static/media/na(ha).65071084.wav": "./static/media/na(ha).65071084.wav",
+    "static/media/okashi(ga).2c01fcd2.wav": "./static/media/okashi(ga).2c01fcd2.wav",
+    "static/media/otoko(ga).a301a60b.wav": "./static/media/otoko(ga).a301a60b.wav",
+    "static/media/otouto(ga).ab5a776c.wav": "./static/media/otouto(ga).ab5a776c.wav",
+    "static/media/shaabetto(ga).b13a12cd.wav": "./static/media/shaabetto(ga).b13a12cd.wav",
+    "static/media/tansangasu(ga).7fb2080f.wav": "./static/media/tansangasu(ga).7fb2080f.wav",
+    "static/media/yamanobori(ga).552586e3.wav": "./static/media/yamanobori(ga).552586e3.wav",
+    "static/media/yukiguni(ga).b08c8e23.wav": "./static/media/yukiguni(ga).b08c8e23.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.633c1ba7.js",
+    "static/js/2.7318fbc9.chunk.js",
+    "static/css/main.92609de2.chunk.css",
+    "static/js/main.c8c1baef.chunk.js"
+  ]
+}
